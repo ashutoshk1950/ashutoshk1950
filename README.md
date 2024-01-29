@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ashutosh Kumar.
-- 👀 I’m interested in Big Data ,DevOps,AIOps,Blockchain.
-- 🌱 I’m currently learning Concepts of Blockchain.
+- 🌱 I’m currently working on React.
 - 📫 Reach me @ ashutosh@ashuk.in.
 
 <!---
