@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashutosh Kumar.
-- 🌱 I’m currently working on React.
+- 🌱 I’m currently working on React,TypeScript Project.
 - 📫 Reach me @ ashutosh@ashuk.in.
 
 <!---
