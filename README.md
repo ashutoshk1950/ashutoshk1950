@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashutosh Kumar.
-- 🌱 I’m currently working on React,TypeScript Project.
+- 🌱 I’m currently working on NextJS 14, Tailwind,React,TypeScript Project.
 - 📫 Reach me @ ashutosh@ashuk.in.
 
 <!---
